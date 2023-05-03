@@ -2,7 +2,7 @@
     {
       "id": "1",
       "chefName": "Kim Min-Jae",
-      "chefPicture": "https://i.ibb.co/zVHWDzp/davidchangmomofukutoronto2012pro.png",
+      "chefPicture": "https://i.ibb.co/0VKjCBc/chef1.png",
       "yearsOfExperience": 12,
       "numberOfRecipes": 60,
       "shortBio": "Kim Min-Jae is a well-known Korean chef who specializes in traditional Korean cuisine with a modern twist.",
@@ -21,7 +21,7 @@
     {
       "id": "2",
       "chefName": "Park Ji-Yeon",
-      "chefPicture": "https://i.ibb.co/GCLj2zZ/c9c7e9feb6b41dec7ab0f5ace1931a06.png",
+      "chefPicture": "https://i.ibb.co/mG5F4Tm/chef2.png",
       "yearsOfExperience": 8,
       "numberOfRecipes": 40,
       "shortBio": "Park Ji-Yeon is a young chef who loves to experiment with bold flavors and new ingredients in Korean cuisine.",
@@ -40,7 +40,7 @@
     {
       "id": "3",
       "chefName": "Lee Sang-Woo",
-      "chefPicture": "https://i.ibb.co/8xqDsyv/news-Letter-20190801113132286.png",
+      "chefPicture": "https://i.ibb.co/qD7S9td/chef3.png",
       "yearsOfExperience": 15,
       "numberOfRecipes": 100,
       "shortBio": "Lee Sang-Woo is a master chef who has dedicated his career to perfecting classic Korean dishes.",
@@ -57,9 +57,9 @@
       "cuisine": "Korean"
     },
     {
-        "id": "8",
+        "id": "4",
         "chefName": "Hwang In-Sun",
-        "chefPicture": "https://i.ibb.co/L9xg5sQ/021.png",
+        "chefPicture": "https://i.ibb.co/7CJhpq6/chef4.png",
         "yearsOfExperience": 5,
         "numberOfRecipes": 30,
         "shortBio": "Hwang In-Sun is a young chef who is passionate about introducing Korean cuisine to the world through her innovative and creative dishes.",
@@ -76,9 +76,9 @@
         "cuisine": "Korean"
       },
       {
-        "id": "7",
+        "id": "5",
         "chefName": "Yoon Ji-Soo",
-        "chefPicture": "https://i.ibb.co/rFxFw42/chef-akane-eno-3.png",
+        "chefPicture": "https://i.ibb.co/10nFHYW/chef5.png",
         "yearsOfExperience": 10,
         "numberOfRecipes": 80,
         "shortBio": "Yoon Ji-Soo is a Korean chef who specializes in fusion cuisine, blending traditional Korean flavors with international ingredients and techniques.",
@@ -95,9 +95,9 @@
         "cuisine": "Korean"
       },
       {
-        "id": "9",
+        "id": "6",
         "chefName": "Lee Sung-Kyung",
-        "chefPicture": "https://i.ibb.co/tY1CgVP/chef-akane-eno-11.png",
+        "chefPicture": "https://i.ibb.co/MRcN9BY/chef6.png",
         "yearsOfExperience": 7,
         "numberOfRecipes": 45,
         "shortBio": "Lee Sung-Kyung is a renowned Korean chef who has won several awards for her mastery of traditional Korean cuisine.",
