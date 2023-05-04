@@ -1,0 +1,336 @@
+[
+    {
+        "recipeInfo_id": "1",
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+            "spaghetti",
+            "ground beef",
+            "onion",
+            "garlic",
+            "canned tomatoes"
+        ],
+        "cooking_method": [
+            "1. Cook macaroni according to package directions.",
+            " 2. Melt butter in a saucepan over medium heat.",
+            " 3. Whisk in flour until smooth."
+        ],
+        "rating": 4.5
+    },
+    {
+        "recipeInfo_id": " 2",
+        "recipe_name": "Mushroom Risotto",
+        "ingredients": [
+            "arborio rice",
+            "mushrooms",
+            "onion",
+            "garlic",
+            "parmesan cheese"
+        ],
+        "cooking_method": [
+            "1. Preheat oven to 400°F (200°C).",
+            "2. Cut vegetables into bite-size pieces and place in a large baking dish.",
+            "3. Drizzle olive oil over the vegetables and toss to coat.",
+            "4. Bake in preheated oven for 25-30 minutes, stirring occasionally, until vegetables are tender and golden brown."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipeInfo_id": "3",
+        "recipe_name": "Chicken Fajitas",
+        "ingredients": [
+            "chicken breast",
+            "bell peppers",
+            "onion",
+            "cumin",
+            "tortillas"
+        ],
+        "cooking_method": [
+            "1. Cut chicken into small pieces and cook in a wok or large pan over high heat.",
+            "2. Add vegetables and stir-fry until tender-crisp.",
+            "3. Add soy sauce and garlic and cook for another minute."
+        ],
+        "rating": 4.2
+    },
+    {
+        "recipeInfo_id": "4",
+        "recipe_name": "Roasted Chicken",
+        "ingredients": [
+            "whole chicken",
+            "garlic",
+            "rosemary",
+            "lemon",
+            "olive oil"
+        ],
+        "cooking_method": [
+            "1. Preheat oven to 400°F (200°C).",
+            "2. Cut vegetables into bite-size pieces and place in a large baking dish.",
+            "3. Drizzle olive oil over the vegetables and toss to coat.",
+            "4. Bake in preheated oven for 25-30 minutes, stirring occasionally, until vegetables are tender and golden brown."
+        ]
+    },
+    {
+        "recipeInfo_id": "5",
+        "recipe_name": "Grilled Salmon",
+        "ingredients": [
+            "salmon fillets",
+            "olive oil",
+            "lemon",
+            "garlic",
+            "dill"
+        ],
+        "cooking_method": [
+            "1. Cook linguine according to package directions.",
+            " 2. Melt butter in a large skillet over medium-high heat.",
+            " 3. Add minced garlic and cook for 1-2 minutes."
+        ],
+        "rating": 4.9
+    },
+    {
+        "recipeInfo_id": "6",
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+        ],
+        "cooking_method": [
+            "1. Cook macaroni according to package directions.",
+            " 2. Melt butter in a saucepan over medium heat.",
+            " 3. Whisk in flour until smooth."
+        ],
+        "rating": 4.5
+    },
+    {
+        "recipeInfo_id": "2",
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "onion",
+            "mushrooms",
+            "sour cream",
+            "egg noodles"
+        ],
+        "cooking_method": [
+            "1. Cook rice according to package directions.",
+            " 2. Heat a tablespoon of oil in a large skillet over medium-high heat.",
+            "3. Cook bacon in a pan until crispy, then chop into small pieces.",
+            " 4. Add diced carrots and cook until slightly softened.",
+            " 5. Add frozen peas and corn, and cook until heated through."
+        ],
+        "rating": 4.3
+    },
+    {
+        "recipeInfo_id": "1",
+        "recipe_name": "Creamy Tomato Soup",
+        "ingredients": [
+            "tomatoes",
+            "heavy cream",
+            "garlic",
+            "onion",
+            "vegetable broth"
+        ],
+        "cooking_method": [
+            "1. Preheat oven to 400°F (200°C).",
+            "2. Cut vegetables into bite-size pieces and place in a large baking dish.",
+            "3. Drizzle olive oil over the vegetables and toss to coat.",
+            "4. Bake in preheated oven for 25-30 minutes, stirring occasionally, until vegetables are tender and golden brown."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipeInfo_id": "1",
+        "recipe_name": "Baked Mac and Cheese",
+        "ingredients": [
+            "macaroni",
+            "cheddar cheese",
+            "butter",
+            "flour",
+            "milk"
+        ],
+        "cooking_method": [
+            "1. Cook macaroni according to package directions.",
+            " 2. Melt butter in a saucepan over medium heat.",
+            " 3. Whisk in flour until smooth."
+        ],
+        "rating": 4.7
+    },
+    {
+        "recipeInfo_id": "2",
+        "recipe_name": "Baked Mac and Cheese",
+        "ingredients": [
+            "macaroni",
+            "cheddar cheese",
+            "butter",
+            "flour",
+            "milk"
+        ],
+        "cooking_method": [
+            "1. Cook macaroni according to package directions.",
+            " 2. Melt butter in a saucepan over medium heat.",
+            " 3. Whisk in flour until smooth."
+        ],
+        "rating": 4.7
+    },
+    {
+        "recipeInfo_id": "2",
+        "recipe_name": "Beef Chili",
+        "ingredients": [
+            "ground beef",
+            "canned tomatoes",
+            "kidney beans",
+            "chili powder",
+            "onion"
+        ],
+        "cooking_method": [
+            "1. Brown ground beef in a large pot over medium heat.",
+            "2. Add chopped onion and cook until softened.",
+            " 3. Add canned tomatoes"
+        ],
+        "rating": 4.5
+    },
+    {
+        "recipeInfo_id": "3",
+        "recipe_name": "Garlic Shrimp Linguine",
+        "ingredients": [
+            "linguine",
+            "shrimp",
+            "garlic",
+            "butter",
+            "lemon"
+        ],
+        "cooking_method": [
+            "1. Cook linguine according to package directions.",
+            " 2. Melt butter in a large skillet over medium-high heat.",
+            " 3. Add minced garlic and cook for 1-2 minutes."
+        ],
+        "rating": 4.9
+    },
+    {
+        "recipeInfo_id": "3",
+        "recipe_name": "Chicken Alfredo",
+        "ingredients": [
+            "fettuccine",
+            "chicken breast",
+            "heavy cream",
+            "garlic",
+            "parmesan cheese"
+        ],
+        "cooking_method": [
+            "1. Cook fettuccine according to package directions.",
+            "2. Season chicken breast with salt and pepper",
+            " 3. Add minced garlic to the skillet and cook for 1-2 minutes. "
+        ],
+        "rating": 4.7
+    },
+    {
+        "recipeInfo_id": "4",
+        "recipe_name": "Spinach and Feta Stuffed Chicken",
+        "ingredients": [
+            "chicken breast",
+            "spinach",
+            "feta cheese",
+            "garlic",
+            "olive oil"
+        ],
+        "cooking_method": [
+            "1. Preheat oven to 375°F.",
+            " 2. Pound chicken breast to an even thickness.",
+            "3. Mix together chopped spinach",
+            " 4. Spoon the spinach mixture onto the chicken breast and roll up tightly."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipeInfo_id": "4",
+        "recipe_name": "Vegetable Fried Rice",
+        "ingredients": [
+            "rice",
+            "carrots",
+            "peas",
+            "corn",
+            "eggs"
+        ],
+        "cooking_method": [
+            "1. Cook rice according to package directions.",
+            " 2. Heat a tablespoon of oil in a large skillet over medium-high heat.",
+            "3. Cook bacon in a pan until crispy, then chop into small pieces.",
+            " 4. Add diced carrots and cook until slightly softened.",
+            " 5. Add frozen peas and corn, and cook until heated through."
+        ],
+        "rating": 4.6
+    },
+    {
+        "recipeInfo_id": "5",
+        "recipe_name": "Beef Stir Fry",
+        "ingredients": [
+            "beef sirloin",
+            "broccoli",
+            "bell peppers",
+            "onion",
+            "soy sauce"
+        ],
+        "cooking_method": [
+            "1. Slice beef sirloin into thin strips.",
+            "2. Heat a tablespoon of oil in a large skillet over high heat.",
+            "3. Add sliced beef and cook until browned on all sides.",
+            "4. Remove beef from skillet and set aside. "
+        ],
+        "rating": 4.5
+    },
+    {
+        "recipeInfo_id": "5",
+        "recipe_name": "Chicken Stir Fry",
+        "ingredients": [
+            "chicken breasts",
+            "broccoli",
+            "carrots",
+            "soy sauce",
+            "garlic"
+        ],
+        "cooking_method": [
+            "1. Cut chicken into small pieces and cook in a wok or large pan over high heat.",
+            "2. Add vegetables and stir-fry until tender-crisp.",
+            "3. Add soy sauce and garlic and cook for another minute."
+        ],
+        "rating": 4.5
+    },
+    {
+        "recipeInfo_id": "6",
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+        ],
+        "cooking_method": [
+            "1. Cook spaghetti according to package instructions.",
+            "2. Cook bacon in a pan until crispy, then chop into small pieces.",
+            "3. Beat eggs and mix in parmesan cheese and black pepper.",
+            "4. Add spaghetti to the pan with the bacon and toss together.",
+            "5. Remove from heat and stir in the egg mixture until well combined."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipeInfo_id": "6",
+        "recipe_name": "Roasted Vegetables",
+        "ingredients": [
+            "potatoes",
+            "carrots",
+            "zucchini",
+            "red onion",
+            "olive oil"
+        ],
+        "cooking_method": [
+            "1. Preheat oven to 400°F (200°C).",
+            "2. Cut vegetables into bite-size pieces and place in a large baking dish.",
+            "3. Drizzle olive oil over the vegetables and toss to coat.",
+            "4. Bake in preheated oven for 25-30 minutes, stirring occasionally, until vegetables are tender and golden brown."
+        ],
+        "rating": 4.2
+    }
+]
